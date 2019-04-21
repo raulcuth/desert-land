@@ -12,6 +12,7 @@ Assets/AssetStoreTools*
 # ===================================== #
 ExportedObj/
 *.svd
+.vs/
 *.userprefs
 *.csproj
 *.pidb
